@@ -5,7 +5,7 @@
 Projeto desenvolvido com café ☕ e código 👨‍💻
 
 
-Link em [ Replit ](https://Calculadora.renanpaes92.repl.co) 🔗
+Link em  <a href="https://Calculadora.renanpaes92.repl.co" target="_blank">[ Replit ] 🔗</a>
 
 
 ##  🖼️ Banner de apresentação
@@ -18,13 +18,17 @@ Uma Calculadora.
 
 Este foi um projeto desenvolvido como resposta ao desafio 5 do **[boracodar](https://boracodar.dev/#)**.
 
-##  📱 Rede Social
+##  📱 Contate-me!
 
 Código desenvolvido por [ Renan Paes ](https://www.linkedin.com/in/renanpaes92/)
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/renanpaes92/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="cariocarh@hotmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -40,7 +44,7 @@ Código desenvolvido por [ Renan Paes ](https://www.linkedin.com/in/renanpaes92/
 ##  ✒️ Autor
 
 <a href="https://github.com/Renan-paes">
-<img src="" width="100px;" alt="foto de perfil"/>
+<img src="img/perfil.jpg" width="100px;" alt="foto de perfil"/>
 <br />
 <sub><b>Renan Paes</b></sub>
 </a>
