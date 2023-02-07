@@ -16,7 +16,7 @@ Link em  <a href="https://Calculadora.renanpaes92.repl.co" target="_blank">[ Rep
 
 Uma Calculadora.
 
-Este foi um projeto desenvolvido como resposta ao desafio 5 do **[boracodar](https://boracodar.dev/#)**.
+Este foi um projeto desenvolvido como resposta ao desafio #5 do **[boracodar](https://boracodar.dev/#)**.
 
 ##  📱 Contate-me!
 
