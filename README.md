@@ -22,14 +22,13 @@ Este foi um projeto desenvolvido como resposta ao desafio #5 do **[boracodar](ht
 
 ##  📱 Contate-me!
 
-Código desenvolvido por [ Renan Paes ](https://www.linkedin.com/in/renanpaes92/)
-
-
 <div align="left">
+  <p>Código desenvolvido por <a href="https://www.linkedin.com/in/renanpaes92/" target="_blank">Renan Paes</a></p>
   <a href="https://www.linkedin.com/in/renanpaes92/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="cariocarh@hotmail.com" target="_blank">
+  
+  <a href="mailto:cariocarh@hotmail.com?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido automaticamente" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
