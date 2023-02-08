@@ -12,7 +12,8 @@ DEPLOY  <a href="https://Calculadora.renanpaes92.repl.co" target="_blank">[ Repl
 
 ##  🖼️ Banner de apresentação
 
-![banner](https://user-images.githubusercontent.com/77288669/217378153-e27e0fe8-359f-47cb-a5c3-cc3c5f1d2de1.png)
+
+![Capa](https://user-images.githubusercontent.com/77288669/217580763-76128c1d-5385-441b-a725-c60dd78d69c8.svg)
 
 ## 💻 Projeto
 
