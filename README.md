@@ -7,7 +7,7 @@
 Projeto desenvolvido com café ☕ e código 👨‍💻
 
 
-Link em  <a href="https://Calculadora.renanpaes92.repl.co" target="_blank">[ Replit ] 🔗</a>
+DEPLOY  <a href="https://Calculadora.renanpaes92.repl.co" target="_blank">[ Replit ] 🔗</a>
 
 
 ##  🖼️ Banner de apresentação
