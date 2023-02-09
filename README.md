@@ -56,7 +56,3 @@ Este foi um projeto desenvolvido como resposta ao desafio #5 do **[boracodar](ht
 <a href="https://github.com/Renan-paes"></a>
 <br />
 
-
-##  🌎 Licença
-
-Este projeto está sob a licença do MIT. Consulte o arquivo [ LICENÇA ](https://github.com/VagnerNerves/productcard-boracodar/blob/master/LICENSE) para obter mais detalhes.
